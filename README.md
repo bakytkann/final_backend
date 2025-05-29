@@ -93,13 +93,7 @@ venv\Scripts\activate       # Windows
 pip install -r requirements.txt
 ```
 
-4. **Create a `.env` file**
-
-```env
-SECRET_KEY=your_secret_key
-```
-
-5. **Run the server**
+4. **Run the server**
 
 ```bash
 python app.py
